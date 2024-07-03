@@ -1,0 +1,1 @@
+print("Maa Kaali Maa Laxmi Maa Sraswati")
